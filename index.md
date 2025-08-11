@@ -1,5 +1,3 @@
-# Christoph Wech
-
 I'm student of cybersecurity at ETH Zuerich, currently doing my masters thesis.
 My interests are all things low level, reverse engineering, and binary
 exploitation.
