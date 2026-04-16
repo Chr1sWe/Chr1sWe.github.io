@@ -12,5 +12,6 @@ This page is more or less a placeholder and under heavy construction
 
 
 ## Academic CV
-* 2023-ongoing: Cybersecurity Masters at ETH Zuerich, ESOP Scholar
+* 2026-ongoing: PhD Student at ETH Zurich
+* 2023-2025: Cybersecurity Masters at ETH Zurich, ESOP Scholar
 * 2020-2023: _Bachelor of Software and Information Engineering_ at TU Vienna
