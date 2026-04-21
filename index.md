@@ -1,5 +1,5 @@
-I'm student of cybersecurity at ETH Zuerich. I have recently started a PhD in
-the [Sectrs](sectrs.ethz.ch) group.
+I'm student of cybersecurity at ETH Zuerich. 
+I have recently started a PhD in the [Sectrs](https://sectrs.ethz.ch) group.
 My interests are all things low level, reverse engineering, and binary
 exploitation. 
 
@@ -7,8 +7,8 @@ exploitation.
 This page is more or less a placeholder and under heavy construction
 
 ## Publications
-### [**Heracles**: Chosen Plaintext Attack on AMD SEV-SNP](heracles-attack.github.io)
-### [**Fabricked**: Misconfiguring Infinity Fabric to Break AMD SEV-SNP](heracles-attack.github.io)
+### [**Heracles**: Chosen Plaintext Attack on AMD SEV-SNP](https://heracles-attack.github.io)
+### [**Fabricked**: Misconfiguring Infinity Fabric to Break AMD SEV-SNP](https://heracles-attack.github.io)
 
 
 ## Academic CV
