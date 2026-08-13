@@ -8,7 +8,7 @@ This page is more or less a placeholder and under heavy construction
 
 ## Publications
 ### [**Heracles**: Chosen Plaintext Attack on AMD SEV-SNP](https://heracles-attack.github.io)
-### [**Fabricked**: Misconfiguring Infinity Fabric to Break AMD SEV-SNP](https://heracles-attack.github.io)
+### [**Fabricked**: Misconfiguring Infinity Fabric to Break AMD SEV-SNP](https://xca-attacks.github.io/fabricked)
 
 
 ## Academic CV
